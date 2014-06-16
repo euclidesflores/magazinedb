@@ -1,6 +1,6 @@
 # A RESTful web service implementation using Java Persistence API (JPA)
 
-This implementation is consumed by a iOS app using RestKit API. The implementation is quite simple. 
+This implementation is consumed by an iOS app using RestKit API. The implementation is quite simple. 
 
 # Demo
 
