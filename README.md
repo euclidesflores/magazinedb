@@ -9,4 +9,4 @@ You can see a running version of the web service at [http://restmagazineapp-swor
 [demo]: http://restmagazineapp-swordcode.rhcloud.com/restmagazineapp/webresources/com.swordcode.maginfo
 
 ## Copyright
-#Copyright (c) 2013 Euclides Flores.
+Copyright (c) 2013 Euclides Flores.
