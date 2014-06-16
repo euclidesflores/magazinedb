@@ -50,6 +50,7 @@ public class Maginfo implements Serializable {
 	private Date timestamp;
 
 	public Maginfo() {
+		System.out.println("Isabella Flores");
 	}
 
 	public Maginfo(Integer issueId) {

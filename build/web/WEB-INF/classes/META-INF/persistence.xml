@@ -5,7 +5,7 @@
     <class>entities.Maginfo</class>
     <exclude-unlisted-classes>false</exclude-unlisted-classes>
     <properties>
-      <property name="javax.persistence.jdbc.url" value="jdbc:postgresql://192.168.2.100:5432/magazine"/>
+      <property name="javax.persistence.jdbc.url" value="jdbc:postgresql://localhost:5431/magazine"/>
       <property name="javax.persistence.jdbc.password" value=""/>
       <property name="javax.persistence.jdbc.driver" value="org.postgresql.Driver"/>
       <property name="javax.persistence.jdbc.user" value="postgres"/>
